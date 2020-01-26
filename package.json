@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend Finder application to match potential friends",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bchansen123/friendFinder.git"
+  },
+  "author": "Branden Hansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bchansen123/friendFinder/issues"
+  },
+  "homepage": "https://github.com/bchansen123/friendFinder#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
